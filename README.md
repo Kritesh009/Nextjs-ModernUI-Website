@@ -1,36 +1,147 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nextjs Modern UI Website
 
-## Getting Started
+A modern animated software company landing page built with Next.js, TypeScript, GSAP, Framer Motion, and Tailwind CSS.
 
-First, run the development server:
+This project showcases immersive UI animations, scroll-triggered interactions, SVG overlay transitions, responsive layouts, and modern frontend development practices.
+
+---
+
+# Features
+
+- Modern responsive UI
+- GSAP horizontal scroll animations
+- Framer Motion transitions
+- SVG overlay animations
+- Interactive scroll effects
+- Animated section transitions
+- Modern software company landing page
+- TypeScript support
+- Tailwind CSS styling
+- Smooth user experience
+
+---
+
+# Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- GSAP
+- Framer Motion
+
+---
+
+# Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Kritesh009/Nextjs-ModernUI-Website.git
+```
+
+Go to project directory:
+
+```bash
+cd Nextjs-ModernUI-Website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open in browser:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+src/
+ ├── app/
+ ├── components/
+ ├── styles/
+ └── animations/
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Main Highlights
 
-## Deploy on Vercel
+## Horizontal Scroll Section
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- GSAP powered horizontal scrolling text animation
+- Character-based motion effects
+- Smooth pinned scroll experience
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Animated Content Sections
+
+- Framer Motion powered transitions
+- Interactive animated cards
+- Dynamic UI lighting effects
+
+## SVG Overlay Animation
+
+- Custom SVG path animations
+- GSAP timeline animations
+- Scroll-triggered immersive transition effects
+
+---
+
+# UI & Animation Libraries
+
+## GSAP
+
+Used for:
+- ScrollTrigger
+- Horizontal scrolling
+- SVG animations
+- Advanced motion control
+
+## Framer Motion
+
+Used for:
+- Section animations
+- Hover effects
+- Scroll-based transforms
+- Interactive motion UI
+
+---
+
+# Responsive Design
+
+Fully responsive for:
+- Mobile devices
+- Tablets
+- Desktop screens
+
+---
+
+# Future Improvements
+
+- Dark/Light theme switcher
+- Backend integration
+- Contact form API
+- CMS integration
+- Advanced page transitions
+
+---
+
+# Author
+
+Kritesh
+
+GitHub:
+https://github.com/Kritesh009
